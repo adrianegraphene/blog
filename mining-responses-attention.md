@@ -1,6 +1,6 @@
 # Mining for Responses and Attention vs. Mining for Bitcoin
 
-You've heared of "Mining Bitcoin", but have you heard of "Mining Responses" or "Mining Attention"?
+You've heard of "Mining Bitcoin", but have you heard of "Mining Responses" or "Mining Attention"?
 
 I guarantee you've experienced it! All those unknown phone calls, unwanted texts, emails, DMs on social media / chat applications are the symptom of people trying to mine your attention. So who's making the money here and why isn't it you?
 
@@ -13,9 +13,9 @@ I guarantee you've experienced it! All those unknown phone calls, unwanted texts
 1. More businesses are created everyday. Those businesses want your feedback so they can grow and beat the incumbent players in their space.
 ![From messages to entertainment... Here's a small chart of all the different ways our attention gets used every minute! It shows things such as 15.2 million texts and 210 million emails sent every minute](https://fyncom-static-files.s3.us-west-1.amazonaws.com/pitch-deck/FynCom_PitchDeck_Q32022-Rewards_Page_02.png)
 
-2. Technological tools/services are making it 10x easier for businessses to automate sequences of emails, calls, texts, DMs, etc. to their "prospects". These sequences can have anywhere from 6 to 20 actions associated with them.
+2. Technological tools/services are making it 10x easier for businesses to automate sequences of emails, calls, texts, DMs, etc. to their "prospects". These sequences can have anywhere from 6 to 20 actions associated with them.
 
-The exponential rise in our technology and simliar rise in population of people/businesses make it incredibly difficult for even the best national institutions to get the responses they used to get. 
+The exponential rise in our technology and similar rise in population of people/businesses make it incredibly difficult for even the best national institutions to get the responses they used to get. 
 ![This shows an average 56% decline in response rates over 20 years from national institutes like the American National Election Studies and Pew Research Center](https://fyncom-static-files.s3.us-west-1.amazonaws.com/pitch-deck/FynCom_PitchDeck_Q32022-Rewards_Page_03.png)
 
 ## Why should I care?
